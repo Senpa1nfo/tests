@@ -31,6 +31,11 @@ int main() {
         break;
 
     }
+    case 5:     result = double(a) / b;  break;
+
+        break;
+
+}
 
     cout << "Результат = " << result;
 
